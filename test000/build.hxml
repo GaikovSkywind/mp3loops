@@ -1,0 +1,4 @@
+-cp src
+-lib soundjs
+-main Main
+-js bin/bin.js
